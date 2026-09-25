@@ -1,7 +1,7 @@
 api-client-gbizinfo
 ===
 
-Unofficial client for gBizINFO REST API
+Unofficial client for the gBizINFO REST API
 
 ## Resources
 
